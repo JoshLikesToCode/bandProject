@@ -1,1 +1,3 @@
-SELECT * FROM songs WHERE song_title LIKE ?;
+SELECT *
+FROM songs
+WHERE song_title LIKE ?;
